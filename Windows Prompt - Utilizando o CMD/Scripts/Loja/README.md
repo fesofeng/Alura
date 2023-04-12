@@ -1,0 +1,1 @@
+Script que automatiza a movimentação dos produtos novos que chegam à loja para suas respectivas prateleiras. Utiliza-se das extensões de arquivos fictícias: ".lim" para produtos de limpeza, e ".fri" para frios.
